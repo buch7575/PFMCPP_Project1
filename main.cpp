@@ -52,13 +52,13 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    car
+//  action 1:    moves forward
+car.forward();
+//  action 2:    moves backwards
+car.backwards();
+//  action 3:    stops
+car.stops();
 //  2)
 //  Noun:
 //  action 1:
