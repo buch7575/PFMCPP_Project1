@@ -68,7 +68,7 @@ cat.drink();
 //  action 3:    cat poops
 cat.poop();
 //  3)    
-//  Noun:    heat pump
+//  Noun:    heatPump
 //  action 1:    heat pump blows cool air
 heatPump.warmAir();
 //  action 2:    heat pump blows warm air
