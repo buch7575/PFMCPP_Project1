@@ -54,35 +54,35 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  1)
 //  Noun:    car
 //  action 1:    car drives forward
-car.forward();
+car.drivesForward();
 //  action 2:    car drives backwards
-car.backwards();
+car.drivesBackwards();
 //  action 3:    car stops
 car.stops();
 //  2)
-//  Noun:    cat
-//  action 1:    cat eats
-cat.eat();
-//  action 2:    cat drinks
-cat.drink();
-//  action 3:    cat poops
-cat.poop();
+//  Noun:    toasterOven
+//  action 1:  toaster oven heats up
+toasterOven.heatsUp();
+//  action 2:    toaster oven cools down
+toasterOven.coolsDown();
+//  action 3:    toaster oven gets dirty
+toasterOven.getsDirty();
 //  3)    
 //  Noun:    heatPump
 //  action 1:    heat pump blows cool air
-heatPump.warmAir();
+heatPump..blowsWarmAir();
 //  action 2:    heat pump blows warm air
-heatPump.coldAir();
+heatPump.blowsColdAir();
 //  action 3:    heat pump makes filter dirty
-heatPump.dirtyFilter();
+heatPump.makesFilterDirty();
 //  4)
 //  Noun:    refrigerator
 //  action 1:    refrigerator keeps food cold
-refrigerator.coldFood();
+refrigerator.keepsFoodCold();
 //  action 2:    refrigerator makes ice
-refrigerator.makeIce();
+refrigerator.makesIce();
 //  action 3:    refrigerator keeps food frozen
-refrigerator.frozenFood();
+refrigerator.keepsFoodFrozen();
 //  5)
 //  Noun:    spaceship
 //  action 1:    spaceship shoots phasers
@@ -112,25 +112,25 @@ dog.eatKibble();
 //  action 1:    flower blooms
 flower.bloom();
 //  action 2:    flower gives off fragrance
-flower.fragrance();
+flower.givesOffFragrance();
 //  action 3:    flower wilts
 flower.wilt();
 //  9)
 //  Noun:    cellPhone
 //  action 1:    cell phone rings
 cellPhone.ring();
-//  action 2:    cell phone battery discharges
-cellPhone.batteryDischarge();
+//  action 2:    cell phone power off
+cellPhone.powerOff();
 //  action 3:    cell phone screen saver turns on
 cellPhone.screenSaverOn();
 //  10)   
 //  Noun:    weather
-//  action 1:    weather is cloudy
-weather.cloudy();
-//  action 2:    weather is raining
-weather.raining();
-//  action 3:    weather is clear
-weather.clear();
+//  action 1:    weather becomes cloudy
+weather.becomesCloudy();
+//  action 2:    weather starts raining
+weather.startsRaining();
+//  action 3:    weather becomes clear
+weather.becomesClear();
 
 
 #endif
