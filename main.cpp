@@ -70,7 +70,7 @@ toasterOven.getsDirty();
 //  3)    
 //  Noun:    heatPump
 //  action 1:    heat pump blows cool air
-heatPump..blowsWarmAir();
+heatPump.blowsWarmAir();
 //  action 2:    heat pump blows warm air
 heatPump.blowsColdAir();
 //  action 3:    heat pump makes filter dirty
